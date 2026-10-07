@@ -4,14 +4,14 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=1shot-1moan&style=for-the-badge&color=05070d&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/1shot-1moan?style=for-the-badge&color=05070d&label=FOLLOWERS&logo=github" />
-<img src="https://img.shields.io/github/stars/1shot-1moan?style=for-the-badge&color=05070d&label=STARS&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=fegrial&style=for-the-badge&color=05070d&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/fegrial?style=for-the-badge&color=05070d&label=FOLLOWERS&logo=github" />
+<img src="https://img.shields.io/github/stars/fegrial?style=for-the-badge&color=05070d&label=STARS&logo=github" />
 
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=systems+that+ship;desktop+clients+with+backend+control;reseller+portals%2C+auth%2C+updates%2C+automation;Script+Kittens+is+the+brand.+execution+is+the+standard.)](https://github.com/1shot-1moan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=systems+that+ship;desktop+clients+with+backend+control;reseller+portals%2C+auth%2C+updates%2C+automation;Script+Kittens+is+the+brand.+execution+is+the+standard.)](https://github.com/fegrial)
 
 </div>
 
@@ -76,7 +76,7 @@ server-managed updates
 reseller authorization
 ```
 
-[![Repo](https://img.shields.io/badge/View%20Repo-UID%20Bypass%20Exe-05070d?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/1shot-1moan/UID-Bypass-Exe)
+[![Repo](https://img.shields.io/badge/View%20Repo-UID%20Bypass%20Exe-05070d?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/fegrial/Script-Kittens-UID-Bypass-Exe)
 
 </td>
 <td width="50%">
