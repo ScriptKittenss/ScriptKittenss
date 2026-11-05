@@ -59,7 +59,7 @@ My main focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** pr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,c,js,ts,nodejs,react,fastapi,flask,postgres,redis,sqlite,visualstudio,vscode,git,github,linux" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=vscode,cpp,cs,c,git,github,java,html,electron,ts" alt="Tech Stack" />
 
 </div>
 
@@ -79,5 +79,6 @@ My main focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** pr
 <sub>Script Kittens © 2026</sub>
 
 </div>
+
 
 
