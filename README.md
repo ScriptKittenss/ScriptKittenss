@@ -48,8 +48,8 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScriptKittenss&theme=dark" alt="Profile Details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ScriptKittenss&theme=dark" alt="Repos per Language" />
+<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/profile-card.svg" width="450" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ScriptKittenss&theme=dark" alt="Repos per Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ScriptKittenss&theme=dark" alt="Most Commit Language" />
 
 </div>
 
@@ -82,6 +82,7 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 <img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg" width="800" alt="Script Kittens © 2026" />
 
 </div>
+
 
 
 
