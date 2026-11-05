@@ -36,9 +36,13 @@ Building practical software that solves real problems. Backend systems, licensin
 
 ### Yoo I'm 1shot
 
-Builder behind **Script Kittens**. I make backend systems, reseller portals, and desktop clients — plus **CatCrypt**, my licensing & auth backend, and the **Kitty** product line.
+Builder behind **Script Kittens**. I make backend systems, reseller portals, and desktop clients — tools that are built to be used, updated, and trusted.
 
-I like my code the way I like my systems: clean, smart, and real.
+```text
+make it usable
+make it controllable
+make it reliable enough to sell
+```
 
 </td>
 <td width="30%" align="center">
@@ -49,6 +53,29 @@ I like my code the way I like my systems: clean, smart, and real.
 
 ---
 
-<p align="center">
-<sub>🔐 <a href="https://github.com/ScriptKittenss/CatCrypt">CatCrypt</a> · 🛒 <a href="https://discord.gg/AqkdsPMU7M">Kitty Line</a> · 🎬 <a href="https://www.youtube.com/@1shot1moanz">@1shot1moanz</a></sub>
-</p>
+### What I Build
+
+- 🐱 **[CatCrypt](https://github.com/ScriptKittenss/CatCrypt)** — licensing & auth backend. HWID binding, license keys, live dashboard, SDKs for Python, C# & C++. From **$0**.
+- 🛒 **[Kitty Line](https://discord.gg/AqkdsPMU7M)** — Internal Panel **$15** · External Panel **$10** · UID Bypass **$7** · Free Fire API **$5** · Level Up Panel **$70**
+- 🎬 **[Script Kittens](https://www.youtube.com/@1shot1moanz)** — game-hacking tutorials on YouTube. Aimbots, ESP, offsets, libil2cpp, reverse engineering.
+
+---
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-161b22?style=flat-square&logo=cplusplus&logoColor=38bdf8)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=facc15)
+![C#](https://img.shields.io/badge/C%23-161b22?style=flat-square&logo=csharp&logoColor=a78bfa)
+![DirectX 11](https://img.shields.io/badge/DirectX_11-161b22?style=flat-square&logo=windows&logoColor=38bdf8)
+![Dear ImGui](https://img.shields.io/badge/Dear_ImGui-161b22?style=flat-square&logo=framework&logoColor=f8fafc)
+![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=22c55e)
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=22c55e)
+
+<br/>
+<br/>
+
+> *"Clean code. Smart systems. Real results."*
+
+<sub>Script Kittens © 2026</sub>
+
+</div>
