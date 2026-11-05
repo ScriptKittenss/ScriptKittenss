@@ -1,31 +1,69 @@
 #!/usr/bin/env python3
-"""Fetch the live Moe Counter SVG, stagger the girls up/down in a wave,
-and save it as a self-contained SVG. Run by the GitHub Action every 15 min
-and once now to seed the first version."""
+"""Stagger the Moe Counter girls up/down in a wave.
+
+Usage:
+    python3 scripts/stagger_counter.py [input.svg]
+
+With no argument it fetches the live counter itself (browser headers).
+With a file argument it reads the SVG from that file (used by the Action,
+which fetches with curl because the counter service 403s urllib from
+GitHub runners). On fetch failure it warns and exits 0 so the scheduled
+run stays green and the last good SVG keeps showing.
+"""
 import math
 import re
+import sys
 import urllib.request
 
 URL = "https://count.getloli.com/get/@ScriptKittenss?theme=asoul&offset=12"
 OUT = "assets/counter-staggered.svg"
 AMP = 14  # max vertical dip in px
 
-def main():
-    req = urllib.request.Request(
-        URL, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-    )
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+    ),
+    "Accept": "image/svg+xml,image/*,*/*",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+
+def fetch_svg():
+    req = urllib.request.Request(URL, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=30) as r:
-        svg = r.read().decode("utf-8", "ignore")
+        return r.read().decode("utf-8", "ignore")
+
+
+def main():
+    if len(sys.argv) > 1:
+        try:
+            with open(sys.argv[1], encoding="utf-8", errors="ignore") as f:
+                svg = f.read()
+        except OSError as e:
+            print(f"WARN: could not read {sys.argv[1]}: {e}; keeping old SVG")
+            return
+        if "<svg" not in svg or "<use" not in svg:
+            print("WARN: input is not a counter SVG; keeping old SVG")
+            return
+    else:
+        try:
+            svg = fetch_svg()
+        except Exception as e:
+            print(f"WARN: counter fetch failed ({e}); keeping old SVG")
+            return
 
     m = re.search(r'<svg viewBox="0 0 (\d+) (\d+)" width="(\d+)" height="(\d+)"', svg)
     if not m:
-        raise SystemExit("unexpected counter SVG root")
+        print("WARN: unexpected counter SVG root; keeping old SVG")
+        return
     vb_w, vb_h, w, h = map(int, m.groups())
 
     uses = list(re.finditer(r'<use x="(\d+)" xlink:href="#(\d+)"\s*/>', svg))
     n = len(uses)
     if n == 0:
-        raise SystemExit("no digits found in counter SVG")
+        print("WARN: no digits found in counter SVG; keeping old SVG")
+        return
 
     # wave: ends high, middle dips down (a smile)
     ys = []
@@ -36,7 +74,6 @@ def main():
             y = round(AMP * (1 - math.cos(2 * math.pi * i / (n - 1))) / 2)
         ys.append(y)
 
-    # rebuild the <use> tags with staggered y, in order
     out = []
     last = 0
     for match, y in zip(uses, ys):
@@ -58,6 +95,7 @@ def main():
         f.write(svg)
     digits = "".join(d for _, d in ((u.group(1), u.group(2)) for u in uses))
     print(f"staggered {n} digits, count={digits}, height={new_h}")
+
 
 if __name__ == "__main__":
     main()

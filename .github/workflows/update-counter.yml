@@ -13,8 +13,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Fetch live counter
+        run: |
+          curl -fsS --max-time 30 \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36" \
+            -H "Accept: image/svg+xml,image/*,*/*" \
+            -H "Accept-Language: en-US,en;q=0.9" \
+            "https://count.getloli.com/get/@ScriptKittenss?theme=asoul&offset=12" \
+            -o /tmp/counter.svg || echo "counter fetch failed, keeping old SVG"
       - name: Stagger counter
-        run: python3 scripts/stagger_counter.py
+        run: python3 scripts/stagger_counter.py /tmp/counter.svg
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
