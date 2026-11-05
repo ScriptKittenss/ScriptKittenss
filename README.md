@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/github/followers/ScriptKittenss?style=flat-square&color=38bdf8&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/ScriptKittenss/CatCrypt?style=flat-square&color=38bdf8&label=STARS" alt="Stars" />
 
+  <br/>
+
+  <img src="https://count.getloli.com/get/@ScriptKittenss?theme=asoul" alt="Profile Views" />
+
 </div>
 
 ---
@@ -84,6 +88,7 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 <img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg?v=2" width="800" alt="Script Kittens © 2026" />
 
 </div>
+
 
 
 
