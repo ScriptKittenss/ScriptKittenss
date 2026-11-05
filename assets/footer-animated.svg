@@ -2,15 +2,30 @@
   <defs>
     <linearGradient id="rgb" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ff5e8a"/>
-      <stop offset="0.33" stop-color="#ff3b30"/>
-      <stop offset="0.66" stop-color="#a855f7"/>
-      <stop offset="1" stop-color="#38bdf8"/>
+      <stop offset="0.125" stop-color="#ff3b30"/>
+      <stop offset="0.25" stop-color="#a855f7"/>
+      <stop offset="0.375" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#ff5e8a"/>
+      <stop offset="0.625" stop-color="#ff3b30"/>
+      <stop offset="0.75" stop-color="#a855f7"/>
+      <stop offset="0.875" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#ff5e8a"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0; -0.5 0" dur="3s" repeatCount="indefinite"/>
     </linearGradient>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur">
+        <animate attributeName="stdDeviation" values="3;6;3" dur="2.5s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
   <line x1="150" y1="22" x2="650" y2="22" stroke="#21262d" stroke-width="2" stroke-linecap="round"/>
   <line x1="0" y1="22" x2="70" y2="22" stroke="#ff5e8a" stroke-width="2" stroke-linecap="round">
     <animateTransform attributeName="transform" type="translate" values="150 0; 580 0; 150 0" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="stroke" values="#ff5e8a;#ff3b30;#a855f7;#38bdf8;#ff5e8a" dur="6s" repeatCount="indefinite"/>
   </line>
-  <text x="400" y="78" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="url(#rgb)">Script Kittens © 2026</text>
+  <text x="400" y="78" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="url(#rgb)" filter="url(#glow)">Script Kittens © 2026</text>
 </svg>
