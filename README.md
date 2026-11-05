@@ -36,12 +36,6 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 
 ---
 
-<div align="center">
-
-<a href="mailto:alfurqanimran@gmail.com"><img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Gmail" /></a> <a href="https://discord.gg/AqkdsPMU7M"><img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a> <a href="https://www.youtube.com/@1shot1moanz"><img src="https://img.shields.io/badge/YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=ef4444" alt="YouTube" /></a> <a href="https://script-kittens.com"><img src="https://img.shields.io/badge/Website-161b22?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Website" /></a> <a href="https://auth.script-kittens.com"><img src="https://img.shields.io/badge/Auth_Portal-161b22?style=for-the-badge&logo=shield&logoColor=22c55e" alt="Auth Portal" /></a>
-
-</div>
-
 ---
 
 ### 📊 GitHub Status
@@ -79,9 +73,18 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg" width="800" alt="Script Kittens © 2026" />
+<a href="mailto:alfurqanimran@gmail.com"><img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Gmail" /></a> <a href="https://discord.gg/AqkdsPMU7M"><img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a> <a href="https://www.youtube.com/@1shot1moanz"><img src="https://img.shields.io/badge/YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=ef4444" alt="YouTube" /></a> <a href="https://script-kittens.com"><img src="https://img.shields.io/badge/Website-161b22?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Website" /></a> <a href="https://auth.script-kittens.com"><img src="https://img.shields.io/badge/Auth_Portal-161b22?style=for-the-badge&logo=shield&logoColor=22c55e" alt="Auth Portal" /></a>
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg?v=2" width="800" alt="Script Kittens © 2026" />
+
+</div>
+
 
 
 
