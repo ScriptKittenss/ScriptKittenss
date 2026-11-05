@@ -10,7 +10,7 @@
 
   <br/>
 
-  <img src="https://count.getloli.com/get/@ScriptKittenss?theme=asoul" alt="Profile Views" />
+  <img src="https://count.getloli.com/get/@ScriptKittenss?theme=asoul&offset=12" alt="Profile Views" />
 
 </div>
 
@@ -86,6 +86,7 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 <img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg?v=4" width="800" alt="Script Kittens © 2026" />
 
 </div>
+
 
 
 
