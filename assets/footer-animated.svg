@@ -5,7 +5,6 @@
       <stop offset="0.33" stop-color="#ff3b30"/>
       <stop offset="0.66" stop-color="#a855f7"/>
       <stop offset="1" stop-color="#38bdf8"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0; 1 0; -1 0" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
   <line x1="150" y1="22" x2="650" y2="22" stroke="#21262d" stroke-width="2" stroke-linecap="round"/>
