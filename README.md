@@ -12,15 +12,15 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/1shot-avatar.png" align="left" width="150" alt="1shot" />
+<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/saitama-mug.jpg" align="left" width="150" alt="1shot" />
 
 ### Who Am I?
 
-Hey, I'm **1shot~1moan**, the builder behind **Script Kittens**.
+Hey, I'm **1shot~1moan** — Co-Founder of **Script Kittens** and **Varino.Net**, and Lead Developer across both.
 
-I build practical software that solves real problems: backend systems, reseller portals, desktop clients, automation — tools that are built to be used, updated, and trusted.
+I build practical software that solves real problems: backend systems, licensing & authentication platforms, reseller portals, desktop clients, and automation — tools that are built to be used, updated, and trusted.
 
-My main focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** product line. I also make game-hacking tutorials on YouTube — aimbots, ESP, offsets, libil2cpp, reverse engineering.
+My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** product line. I also create game-hacking tutorials on YouTube — aimbots, ESP, offsets, libil2cpp, and reverse engineering.
 
 <br clear="all"/>
 
@@ -82,6 +82,7 @@ My main focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** pr
 <sub>Script Kittens © 2026</sub>
 
 </div>
+
 
 
 
