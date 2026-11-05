@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="110" viewBox="0 0 800 110">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="170" viewBox="0 0 800 170">
   <defs>
     <linearGradient id="rgb" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ff5e8a"/>
@@ -22,10 +22,12 @@
       </feMerge>
     </filter>
   </defs>
-  <line x1="150" y1="22" x2="650" y2="22" stroke="#21262d" stroke-width="2" stroke-linecap="round"/>
-  <line x1="0" y1="22" x2="70" y2="22" stroke="#ff5e8a" stroke-width="2" stroke-linecap="round">
-    <animateTransform attributeName="transform" type="translate" values="150 0; 580 0; 150 0" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="stroke" values="#ff5e8a;#ff3b30;#a855f7;#38bdf8;#ff5e8a" dur="6s" repeatCount="indefinite"/>
-  </line>
-  <text x="400" y="78" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="bold" fill="url(#rgb)" filter="url(#glow)">Script Kittens © 2026</text>
+  <path d="M -200 34 Q -150 16 -100 34 T 0 34 T 100 34 T 200 34 T 300 34 T 400 34 T 500 34 T 600 34 T 700 34 T 800 34 T 900 34 T 1000 34" fill="none" stroke="#1f242b" stroke-width="2" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -200 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M -200 28 Q -150 8 -100 28 T 0 28 T 100 28 T 200 28 T 300 28 T 400 28 T 500 28 T 600 28 T 700 28 T 800 28 T 900 28 T 1000 28" fill="none" stroke="url(#rgb)" stroke-width="2.5" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -200 0" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <text x="400" y="108" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="bold" fill="url(#rgb)" filter="url(#glow)">Script Kittens</text>
+  <text x="400" y="142" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="6" fill="#8b949e">© 2026</text>
 </svg>
