@@ -44,6 +44,17 @@ My main focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** pr
 
 ---
 
+### 📊 GitHub Status
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScriptKittenss&theme=dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ScriptKittenss&theme=dark" alt="Repos per Language" />
+
+</div>
+
+---
+
 ### 🛠️ My Stacks
 
 <div align="center">
@@ -68,4 +79,5 @@ My main focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** pr
 <sub>Script Kittens © 2026</sub>
 
 </div>
+
 
