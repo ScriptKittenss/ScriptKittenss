@@ -16,7 +16,7 @@
 
 ### Who Am I?
 
-Hey, I'm **1shot**, the builder behind **Script Kittens**.
+Hey, I'm **1shot~1moan**, the builder behind **Script Kittens**.
 
 I build practical software that solves real problems: backend systems, reseller portals, desktop clients, automation — tools that are built to be used, updated, and trusted.
 
@@ -48,7 +48,6 @@ My main focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** pr
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScriptKittenss&theme=dark" alt="Profile Details" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ScriptKittenss&theme=dark" alt="Repos per Language" />
 
 </div>
@@ -67,10 +66,13 @@ My main focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** pr
 
 ### 📌 My Best Repositories
 
-- 🐱 **[CatCrypt](https://github.com/ScriptKittenss/CatCrypt)** — licensing & auth backend. HWID binding, license keys, live dashboard, SDKs. ![Stars](https://img.shields.io/github/stars/ScriptKittenss/CatCrypt?style=flat-square)
-- 🐍 **[CatCrypt-Python-Example](https://github.com/ScriptKittenss/CatCrypt-Python-Example)** — Python SDK & CLI loader. ![Stars](https://img.shields.io/github/stars/ScriptKittenss/CatCrypt-Python-Example?style=flat-square)
-- 🔷 **[CatCrypt-CSharp-Example](https://github.com/ScriptKittenss/CatCrypt-CSharp-Example)** — async .NET 8 WinForms client. ![Stars](https://img.shields.io/github/stars/ScriptKittenss/CatCrypt-CSharp-Example?style=flat-square)
-- ⚙️ **[CatCrypt-CPP-Example](https://github.com/ScriptKittenss/CatCrypt-CPP-Example)** — zero-dependency C++ SDK & ImGui UI. ![Stars](https://img.shields.io/github/stars/ScriptKittenss/CatCrypt-CPP-Example?style=flat-square)
+<div align="center">
+
+<a href="https://github.com/ScriptKittenss/CatCrypt"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-catcrypt.png" width="400" alt="CatCrypt" /></a> <a href="https://github.com/ScriptKittenss/CatCrypt-Python-Example"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-python.png" width="400" alt="CatCrypt Python SDK" /></a>
+
+<a href="https://github.com/ScriptKittenss/CatCrypt-CSharp-Example"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-csharp.png" width="400" alt="CatCrypt C# SDK" /></a> <a href="https://github.com/ScriptKittenss/CatCrypt-CPP-Example"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-cpp.png" width="400" alt="CatCrypt C++ SDK" /></a>
+
+</div>
 
 ---
 
@@ -79,6 +81,7 @@ My main focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** pr
 <sub>Script Kittens © 2026</sub>
 
 </div>
+
 
 
 
