@@ -79,9 +79,10 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 
 <div align="center">
 
-<sub>Script Kittens © 2026</sub>
+<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg" width="800" alt="Script Kittens © 2026" />
 
 </div>
+
 
 
 
