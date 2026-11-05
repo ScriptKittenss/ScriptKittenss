@@ -30,9 +30,7 @@ Building practical software that solves real problems. Backend systems, licensin
 
 ---
 
-<table>
-<tr>
-<td width="70%">
+<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/1shot-avatar.png" align="right" width="180" alt="1shot" />
 
 ### Yoo I'm 1shot
 
@@ -44,12 +42,7 @@ make it controllable
 make it reliable enough to sell
 ```
 
-</td>
-<td width="30%" align="center">
-  <img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/1shot-avatar.png" width="180" alt="1shot" />
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 ---
 
@@ -72,9 +65,8 @@ make it reliable enough to sell
 ![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=22c55e)
 
 <br/>
-<br/>
 
-> *"Clean code. Smart systems. Real results."*
+<i>"Clean code. Smart systems. Real results."</i>
 
 <sub>Script Kittens © 2026</sub>
 
