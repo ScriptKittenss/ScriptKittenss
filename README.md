@@ -5,7 +5,6 @@
   <br/>
   <br/>
 
-  <!-- Official Web Properties -->
   <a href="https://script-kittens.com">
     <img src="https://img.shields.io/badge/MAIN_WEBSITE-SCRIPT--KITTENS.COM-161b22?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Main Website" />
   </a>
@@ -45,7 +44,7 @@ make it controllable
 make it reliable enough to sell
 ```
 
-The main focus is simple: build tools that can be shipped, managed, updated, and trusted without turning every small change into a full rebuild.
+The focus is simple: build tools that can be shipped, managed, updated, and trusted — without turning every small change into a full rebuild.
 
 - 🌐 **Main Platform:** [script-kittens.com](https://script-kittens.com)
 - 🔐 **Licensing & Auth:** [auth.script-kittens.com](https://auth.script-kittens.com)
@@ -57,46 +56,47 @@ The main focus is simple: build tools that can be shipped, managed, updated, and
 
 ---
 
-### 🚀 Active Platforms & Systems
+### 🐱 CatCrypt — Licensing & Auth Backend
 
-<table>
-<tr>
-<td width="50%">
+My licensing and authentication platform for software products. HWID machine binding, license keys, a live operator dashboard, and SDKs — from **$0**.
 
-#### 🔐 Onyx Gate Auth
-Authentication and licensing layer for license keys, HWID locking, plan gates, active sessions, and protected software access.
+- 🔐 HWID binding — every account locks to a trusted machine
+- 🎫 License keys — generate, redeem, and track (Free $0 / Starter $1 / Pro $2)
+- 🟢 Live sessions & instant revocation
+- 📁 Runtime Vault — protected file delivery to entitled users only
+- 🤖 **Cat Agent** — AI operator that runs your dashboard for you
 
-* Live Backend Validation & Device Locking
-* Anti-tampering & session verification
-* **Official Client Integration SDKs:**
-  * 🌐 [`Onyx-Gate-CPP-Example`](https://github.com/ScriptKittenss/Onyx-Gate-CPP-Example) — Zero-dependency C++ SDK & ImGui UI
-  * 🌐 [`Onyx-Gate-CSharp-Example`](https://github.com/ScriptKittenss/Onyx-Gate-CSharp-Example) — Async .NET 8 WinForms client
-  * 🌐 [`Onyx-Gate-Python-Example`](https://github.com/ScriptKittenss/Onyx-Gate-Python-Example) — Cross-platform Python SDK & CLI loader
+**SDKs — full feature parity (login, register, redeem, validate, variables, files, `is_paid`):**
 
-🔗 **Portal:** [auth.script-kittens.com](https://auth.script-kittens.com)
+| Language | SDK |
+| --- | --- |
+| Python | [`CatCrypt-Python-Example`](https://github.com/ScriptKittenss/CatCrypt-Python-Example) |
+| C# | [`CatCrypt-CSharp-Example`](https://github.com/ScriptKittenss/CatCrypt-CSharp-Example) |
+| C++ | [`CatCrypt-CPP-Example`](https://github.com/ScriptKittenss/CatCrypt-CPP-Example) |
 
-</td>
-<td width="50%">
-
-#### 🖥️ Desktop Clients & Reseller Portals
-High-performance Win32 desktop clients featuring hardware-accelerated DirectX 11 overlays and clean ImGui workflows.
-
-* Server-managed dynamic DLL updates
-* Reseller authorization & branding synchronization
-* Modern Web platform with 3D interactive elements
-
-🔗 **Website:** [script-kittens.com](https://script-kittens.com)
+🔗 **Repo:** [ScriptKittenss/CatCrypt](https://github.com/ScriptKittenss/CatCrypt) · **Portal:** [auth.script-kittens.com](https://auth.script-kittens.com)
 
 ---
 
-#### 🤖 Discord Automation
-Custom bot architectures for community operations, automated license delivery, customer support flows, and telemetry dispatch.
+### 🛒 The Kitty Line
 
-🔗 **Join the Discord:** [discord.gg/AqkdsPMU7M](https://discord.gg/AqkdsPMU7M)
+| Product | Price | What it is |
+| --- | --- | --- |
+| **Kitty Internal Panel** | $15 | C++ overlay — aimbot, ESP, exploits, HWID locked |
+| **Kitty External Panel** | $10 | Python engine — multi-bone aimbot, chams & ESP |
+| **Kitty UID Bypass** | $7 | Bypasses PC detection via UID, instant delivery |
+| **Free Fire API** | $5 | Player info, stats, ban check, 15+ endpoints |
+| **Level Up Panel** | $70 | Automated guest-account leveling to Lv. 20 |
 
-</td>
-</tr>
-</table>
+🛒 **Buy:** Discord tickets — join the [Discord](https://discord.gg/AqkdsPMU7M) and open a ticket. Payments: crypto, Easypaisa, JazzCash, bKash, UPI.
+
+---
+
+### 🎬 Script Kittens on YouTube
+
+Game-hacking tutorials — aimbots, ESP, offsets, libil2cpp, reverse engineering. New lectures in the **YouTube Series Internal Panel** playlist.
+
+🔗 **Channel:** [@1shot1moanz](https://www.youtube.com/@1shot1moanz)
 
 ---
 
@@ -117,6 +117,17 @@ Custom bot architectures for community operations, automated license delivery, c
 ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=22c55e)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=38bdf8)
 ![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=ef4444)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScriptKittenss&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptKittenss&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
