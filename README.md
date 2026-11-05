@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/banner-1shot.png" width="100%" alt="1SHOT" />
+  <img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/banner-1shot.jpg" width="100%" alt="1SHOT" />
 
 </div>
 
