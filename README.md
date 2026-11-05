@@ -68,8 +68,11 @@ make it reliable enough to sell
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ScriptKittenss&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScriptKittenss&theme=dark" alt="Profile Details" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScriptKittenss&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ScriptKittenss&theme=dark" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ScriptKittenss&theme=dark" alt="Repos per Language" />
 
 </div>
 
@@ -87,23 +90,10 @@ make it reliable enough to sell
 
 ### 📌 My Best Repositories
 
-<div align="center">
-
-<a href="https://github.com/ScriptKittenss/CatCrypt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptKittenss&repo=CatCrypt&theme=dark&hide_border=true&bg_color=0d1117" alt="CatCrypt" />
-</a>
-<a href="https://github.com/ScriptKittenss/CatCrypt-Python-Example">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptKittenss&repo=CatCrypt-Python-Example&theme=dark&hide_border=true&bg_color=0d1117" alt="CatCrypt Python SDK" />
-</a>
-
-<a href="https://github.com/ScriptKittenss/CatCrypt-CSharp-Example">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptKittenss&repo=CatCrypt-CSharp-Example&theme=dark&hide_border=true&bg_color=0d1117" alt="CatCrypt C# SDK" />
-</a>
-<a href="https://github.com/ScriptKittenss/CatCrypt-CPP-Example">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ScriptKittenss&repo=CatCrypt-CPP-Example&theme=dark&hide_border=true&bg_color=0d1117" alt="CatCrypt C++ SDK" />
-</a>
-
-</div>
+- 🐱 **[CatCrypt](https://github.com/ScriptKittenss/CatCrypt)** — licensing & auth backend. HWID binding, license keys, live dashboard, SDKs. ![Stars](https://img.shields.io/github/stars/ScriptKittenss/CatCrypt?style=flat-square)
+- 🐍 **[CatCrypt-Python-Example](https://github.com/ScriptKittenss/CatCrypt-Python-Example)** — Python SDK & CLI loader. ![Stars](https://img.shields.io/github/stars/ScriptKittenss/CatCrypt-Python-Example?style=flat-square)
+- 🔷 **[CatCrypt-CSharp-Example](https://github.com/ScriptKittenss/CatCrypt-CSharp-Example)** — async .NET 8 WinForms client. ![Stars](https://img.shields.io/github/stars/ScriptKittenss/CatCrypt-CSharp-Example?style=flat-square)
+- ⚙️ **[CatCrypt-CPP-Example](https://github.com/ScriptKittenss/CatCrypt-CPP-Example)** — zero-dependency C++ SDK & ImGui UI. ![Stars](https://img.shields.io/github/stars/ScriptKittenss/CatCrypt-CPP-Example?style=flat-square)
 
 ---
 
