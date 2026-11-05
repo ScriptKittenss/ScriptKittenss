@@ -51,6 +51,16 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-trophies.vercel.app/?username=ScriptKittenss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ### 🛠️ My Stacks
 
 <div align="center">
@@ -86,6 +96,7 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 <img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg?v=4" width="800" alt="Script Kittens © 2026" />
 
 </div>
+
 
 
 
