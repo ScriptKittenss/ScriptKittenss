@@ -64,20 +64,6 @@ make it reliable enough to sell
 
 ---
 
-### 📊 GitHub Status
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScriptKittenss&theme=dark" alt="Profile Details" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ScriptKittenss&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ScriptKittenss&theme=dark" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ScriptKittenss&theme=dark" alt="Repos per Language" />
-
-</div>
-
----
-
 ### 🛠️ My Stacks
 
 <div align="center">
