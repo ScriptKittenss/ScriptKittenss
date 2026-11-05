@@ -55,7 +55,7 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=ScriptKittenss&theme=gotham&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=ScriptKittenss&theme=gotham&no-frame=false&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -96,6 +96,7 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 <img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg?v=6" width="800" alt="Script Kittens © 2026" />
 
 </div>
+
 
 
 
