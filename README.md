@@ -28,11 +28,11 @@ My main focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** pr
 
 ### A Little More About Me
 
-- ☑️ Currently working on **CatCrypt** — licensing & auth backend
-- ☑️ Building the **Kitty** product line — Internal, External, UID Bypass, API
-- ☑️ Learning reverse engineering — pointer chains, offsets, libil2cpp
-- ☑️ Making YouTube tutorials for the Script Kittens series
-- ☑️ Clean code. Smart systems. Real results.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/about-me-card.png" width="800" alt="A Little More About Me" />
+
+</div>
 
 ---
 
@@ -82,6 +82,7 @@ My main focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** pr
 <sub>Script Kittens © 2026</sub>
 
 </div>
+
 
 
 
