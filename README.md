@@ -45,6 +45,7 @@ Right now I'm deep into **AI model APIs** — pooling free AI accounts (Antigrav
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/profile-card.svg" width="700" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ScriptKittenss&theme=dark" width="700" alt="GitHub Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ScriptKittenss&theme=dark" alt="Repos per Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ScriptKittenss&theme=dark" alt="Most Commit Language" />
 
 </div>
