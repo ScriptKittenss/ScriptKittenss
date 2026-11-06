@@ -4,9 +4,9 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=ScriptKittenss&style=flat-square&color=38bdf8" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ScriptKittenss?style=flat-square&color=38bdf8&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ScriptKittenss/CatCrypt?style=flat-square&color=38bdf8&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=ScriptKittenss&style=flat-square&color=38bdf8" alt="Profile Views" height="28" />
+  <img src="https://img.shields.io/github/followers/ScriptKittenss?style=flat-square&color=38bdf8&label=FOLLOWERS" alt="Followers" height="28" />
+  <img src="https://img.shields.io/github/stars/ScriptKittenss/CatCrypt?style=flat-square&color=38bdf8&label=STARS" alt="Stars" height="28" />
 
   <br/>
 
@@ -34,7 +34,7 @@ Right now I'm deep into **AI model APIs** — pooling free AI accounts (Antigrav
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/about-me-card.png" width="800" alt="A Little More About Me" />
+<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/about-me-card.png" width="1000" alt="A Little More About Me" />
 
 </div>
 
