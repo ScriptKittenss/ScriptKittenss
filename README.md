@@ -51,16 +51,6 @@ Right now I'm deep into **AI model APIs** — pooling free AI accounts (Antigrav
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-trophies.vercel.app/?username=ScriptKittenss&theme=gotham&no-frame=false&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 🛠️ My Stacks
 
 <div align="center">
