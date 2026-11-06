@@ -22,9 +22,9 @@
 
 Hey, I'm **1shot~1moan** — Co-Founder of **Script Kittens** and **Varino.Net**, and Lead Developer across both.
 
-I build practical software that solves real problems: backend systems, licensing & authentication platforms, reseller portals, desktop clients, and automation — tools that are built to be used, updated, and trusted.
+I build software people actually use: licensing & auth platforms, reseller portals, desktop clients, backend systems, and automation — tools that are built to be used, updated, and trusted.
 
-My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty** product line. I also create game-hacking tutorials on YouTube — aimbots, ESP, offsets, libil2cpp, and reverse engineering.
+Right now I'm deep into **AI model APIs** — pooling free AI accounts (Antigravity, Qwen, Gemini) into one API with CLIProxyAPI — alongside **CatCrypt**, my licensing & auth backend, and the **Kitty** product line. I also make game-hacking tutorials on YouTube — aimbots, ESP, offsets, libil2cpp, and reverse engineering.
 
 <br clear="all"/>
 
@@ -75,9 +75,9 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 
 <div align="center">
 
-<a href="https://github.com/ScriptKittenss/CatCrypt"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-catcrypt.png" width="400" alt="CatCrypt" /></a> <a href="https://github.com/ScriptKittenss/CatCrypt-Python-Example"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-python.png" width="400" alt="CatCrypt Python SDK" /></a>
+<a href="https://github.com/ScriptKittenss/CatCrypt"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-catcrypt.png" width="400" alt="CatCrypt" /></a> <a href="https://github.com/ScriptKittenss/Discord-Quest-Completer"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-quest-completer.png" width="400" alt="Discord Quest Completer" /></a>
 
-<a href="https://github.com/ScriptKittenss/CatCrypt-CSharp-Example"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-csharp.png" width="400" alt="CatCrypt C# SDK" /></a> <a href="https://github.com/ScriptKittenss/CatCrypt-CPP-Example"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-cpp.png" width="400" alt="CatCrypt C++ SDK" /></a>
+<a href="https://github.com/ScriptKittenss/Script-Kittens-AOTBST"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-aotbst.png" width="400" alt="Script Kittens AOTBST" /></a> <a href="https://github.com/ScriptKittenss/Linux-Corporation"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/repo-linux-corporation.png" width="400" alt="Linux Corporation" /></a>
 
 </div>
 
@@ -85,7 +85,9 @@ My current focus is **CatCrypt**, my licensing & auth backend, and the **Kitty**
 
 <div align="center">
 
-<a href="mailto:alfurqanimran@gmail.com"><img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Gmail" /></a> <a href="https://discord.gg/AqkdsPMU7M"><img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a> <a href="https://www.youtube.com/@1shot1moanz"><img src="https://img.shields.io/badge/YouTube-161b22?style=for-the-badge&logo=youtube&logoColor=ef4444" alt="YouTube" /></a> <a href="https://script-kittens.com"><img src="https://img.shields.io/badge/Website-161b22?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Website" /></a> <a href="https://auth.script-kittens.com"><img src="https://img.shields.io/badge/Auth_Portal-161b22?style=for-the-badge&logo=shield&logoColor=22c55e" alt="Auth Portal" /></a>
+<a href="https://www.instagram.com/scriptkittenss"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/instagram.svg" width="40" alt="Instagram" /></a> <a href="https://www.facebook.com/profile.php?id=61595059464044"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/facebook.svg" width="40" alt="Facebook" /></a> <a href="https://discord.gg/AqkdsPMU7M"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/discord.svg" width="40" alt="Discord" /></a> <a href="https://www.youtube.com/@1shot1moanz"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/youtube.svg" width="40" alt="YouTube" /></a> <a href="mailto:alfurqanimran@gmail.com"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/gmail.svg" width="40" alt="Gmail" /></a> <a href="https://github.com/ScriptKittenss"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/github.svg" width="40" alt="GitHub" /></a>
+
+<p><a href="https://script-kittens.com">script-kittens.com</a> · <a href="https://auth.script-kittens.com">auth.script-kittens.com</a></p>
 
 </div>
 
