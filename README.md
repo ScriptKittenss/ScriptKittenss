@@ -45,7 +45,6 @@ Right now I'm deep into **AI model APIs** — pooling free AI accounts (Antigrav
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/profile-card.svg" width="700" alt="Profile Details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ScriptKittenss&theme=dark" width="700" alt="GitHub Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ScriptKittenss&theme=dark" alt="Repos per Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ScriptKittenss&theme=dark" alt="Most Commit Language" />
 
 </div>
@@ -78,7 +77,7 @@ Right now I'm deep into **AI model APIs** — pooling free AI accounts (Antigrav
 
 <a href="https://www.instagram.com/fegrial"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/instagram.svg" width="40" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/ScriptKittens"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/facebook.svg" width="40" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/AqkdsPMU7M"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/discord.svg" width="40" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@1shot1moanz"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/youtube.svg" width="40" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:alfurqanimran@gmail.com"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/gmail.svg" width="40" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/ScriptKittenss"><img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/social/github.svg" width="40" alt="GitHub" /></a>
 
-<p><a href="https://script-kittens.com">script-kittens.com</a> · <a href="https://auth.script-kittens.com">auth.script-kittens.com</a></p>
+<p><a href="https://script-kittens.com"><b>Main Website</b></a> · <a href="https://auth.script-kittens.com"><b>Auth Website</b></a></p>
 
 </div>
 
@@ -86,7 +85,7 @@ Right now I'm deep into **AI model APIs** — pooling free AI accounts (Antigrav
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg?v=7" width="800" alt="C for Cheat © 2026" />
+<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg?v=8" width="800" alt="C for Cheat © 2026" />
 
 </div>
 
