@@ -85,7 +85,7 @@ Right now I'm deep into **AI model APIs** — pooling free AI accounts (Antigrav
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg?v=6" width="800" alt="Script Kittens © 2026" />
+<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg?v=7" width="800" alt="C for Cheat © 2026" />
 
 </div>
 

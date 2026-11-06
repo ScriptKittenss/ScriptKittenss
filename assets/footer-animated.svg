@@ -28,6 +28,6 @@
   <path d="M -200 28 Q -150 8 -100 28 T 0 28 T 100 28 T 200 28 T 300 28 T 400 28 T 500 28 T 600 28 T 700 28 T 800 28 T 900 28 T 1000 28" fill="none" stroke="url(#rgb)" stroke-width="2.5" stroke-linecap="round">
     <animateTransform attributeName="transform" type="translate" values="0 0; -200 0" dur="4s" repeatCount="indefinite"/>
   </path>
-  <text x="400" y="108" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="bold" fill="#ffffff" filter="url(#glow)">Script Kittens</text>
+  <text x="400" y="108" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="bold" fill="#ffffff" filter="url(#glow)">C for Cheat</text>
   <text x="400" y="142" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="6" fill="#8b949e">© 2026</text>
 </svg>
