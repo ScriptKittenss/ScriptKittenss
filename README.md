@@ -4,9 +4,9 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=ScriptKittenss&style=flat-square&color=38bdf8" alt="Profile Views" height="28" />
-  <img src="https://img.shields.io/github/followers/ScriptKittenss?style=flat-square&color=38bdf8&label=FOLLOWERS" alt="Followers" height="28" />
-  <img src="https://img.shields.io/github/stars/ScriptKittenss/CatCrypt?style=flat-square&color=38bdf8&label=STARS" alt="Stars" height="28" />
+  <img src="https://komarev.com/ghpvc/?username=ScriptKittenss&style=flat-square&color=38bdf8" alt="Profile Views" height="40" />
+  <img src="https://img.shields.io/github/followers/ScriptKittenss?style=flat-square&color=38bdf8&label=FOLLOWERS" alt="Followers" height="40" />
+  <img src="https://img.shields.io/github/stars/ScriptKittenss/CatCrypt?style=flat-square&color=38bdf8&label=STARS" alt="Stars" height="40" />
 
   <br/>
 
