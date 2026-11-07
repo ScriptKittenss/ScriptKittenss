@@ -87,7 +87,13 @@ Right now I'm deep into **AI model APIs** — pooling free AI accounts (Antigrav
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=200&section=footer&text=C%20for%20Cheat&fontSize=40&fontColor=ffffff" width="100%" alt="C for Cheat" />
+<img src="https://raw.githubusercontent.com/ScriptKittenss/ScriptKittenss/main/assets/footer-animated.svg?v=8" width="800" alt="C for Cheat © 2026" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2f81f7&height=100&section=footer" width="100%" alt="" />
 
 </div>
 
